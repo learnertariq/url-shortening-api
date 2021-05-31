@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/youandtariq.github.io/url-shortening-api/static/css/main.11c4ae32.chunk.css",
+    "main.js": "/youandtariq.github.io/url-shortening-api/static/js/main.e17a23bd.chunk.js",
+    "main.js.map": "/youandtariq.github.io/url-shortening-api/static/js/main.e17a23bd.chunk.js.map",
+    "runtime-main.js": "/youandtariq.github.io/url-shortening-api/static/js/runtime-main.93bf63cf.js",
+    "runtime-main.js.map": "/youandtariq.github.io/url-shortening-api/static/js/runtime-main.93bf63cf.js.map",
+    "static/js/2.6dfbe3f1.chunk.js": "/youandtariq.github.io/url-shortening-api/static/js/2.6dfbe3f1.chunk.js",
+    "static/js/2.6dfbe3f1.chunk.js.map": "/youandtariq.github.io/url-shortening-api/static/js/2.6dfbe3f1.chunk.js.map",
+    "static/js/3.c969a517.chunk.js": "/youandtariq.github.io/url-shortening-api/static/js/3.c969a517.chunk.js",
+    "static/js/3.c969a517.chunk.js.map": "/youandtariq.github.io/url-shortening-api/static/js/3.c969a517.chunk.js.map",
+    "index.html": "/youandtariq.github.io/url-shortening-api/index.html",
+    "static/css/main.11c4ae32.chunk.css.map": "/youandtariq.github.io/url-shortening-api/static/css/main.11c4ae32.chunk.css.map",
+    "static/js/2.6dfbe3f1.chunk.js.LICENSE.txt": "/youandtariq.github.io/url-shortening-api/static/js/2.6dfbe3f1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/youandtariq.github.io/url-shortening-api/static/media/bg-shorten-mobile.41c34b33.svg",
+    "static/media/icon-brand-recognition.c349d3b6.svg": "/youandtariq.github.io/url-shortening-api/static/media/icon-brand-recognition.c349d3b6.svg",
+    "static/media/icon-detailed-records.265c8aea.svg": "/youandtariq.github.io/url-shortening-api/static/media/icon-detailed-records.265c8aea.svg",
+    "static/media/icon-facebook.229c75a0.svg": "/youandtariq.github.io/url-shortening-api/static/media/icon-facebook.229c75a0.svg",
+    "static/media/icon-fully-customizable.a1532a74.svg": "/youandtariq.github.io/url-shortening-api/static/media/icon-fully-customizable.a1532a74.svg",
+    "static/media/illustration-working.c9b5ef54.svg": "/youandtariq.github.io/url-shortening-api/static/media/illustration-working.c9b5ef54.svg",
+    "static/media/logo.83464303.svg": "/youandtariq.github.io/url-shortening-api/static/media/logo.83464303.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93bf63cf.js",
+    "static/js/2.6dfbe3f1.chunk.js",
+    "static/css/main.11c4ae32.chunk.css",
+    "static/js/main.e17a23bd.chunk.js"
+  ]
+}
