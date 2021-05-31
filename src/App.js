@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./components/Navbar";
+import Intro from "./components/Intro";
+import ShortenerHome from "./components/ShortenerHome";
+import Features from "./components/Features";
+import Call2Action from "./components/Call2Action";
+import Footer from "./components/Footer";
+import "./App.css";
 
 function App() {
+  /* TODO: feature connection line */
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar />
+      <Intro />
+      <ShortenerHome />
+      <Features />
+      <Call2Action />
+      <Footer />
     </div>
   );
 }
